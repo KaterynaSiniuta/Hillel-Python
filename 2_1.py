@@ -9,3 +9,4 @@ print(tysyacha)
 print(sotnya)
 print(desyatok)
 print(odyn)
+
