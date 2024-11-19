@@ -21,4 +21,5 @@ assert (correct_sentence("Greetings, friends.")
 assert (correct_sentence("greetings, friends.")
         == "Greetings, friends."), 'Test5'
 
+
 print('ОК')
